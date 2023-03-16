@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="D:\UnityProjects\KEBABO\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="D:\UnityProjects\KEBABO\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\5788ebb8ee66db524b8a4bfdcd2e7ba3\transformed\out\jars\classes.jar;D:\UnityProjects\KEBABO\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\5788ebb8ee66db524b8a4bfdcd2e7ba3\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="D:\UnityProjects\KEBABO\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\5788ebb8ee66db524b8a4bfdcd2e7ba3\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:D:\UnityProjects\KEBABO\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="D:\UnityProjects\KEBABO\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:D:\UnityProjects\KEBABO\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+</libraries>
